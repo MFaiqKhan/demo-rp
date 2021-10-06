@@ -27,7 +27,7 @@ git commit -m
 #still this all changes are saved locally we yet have to change in main repo live in github by pushing applying push #command, which will be origin is an option set for us  here, and is basically a word that stands for  
 #the location of our Git repository. Master is the  branch that we want to push to
 
-# git push origin master
+# git push origin master #master is just the name of the branch it can be "main" in some cases
 
 #after that our code changes will be live on github repo, and we will be able to see our commits live on github or locally
 #On our pc
